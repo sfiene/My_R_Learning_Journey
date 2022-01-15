@@ -1,1 +1,3 @@
-# My_R_Learning_Journey
+# My R Learning Journey
+
+Featuring the wonderful world of R and RStudio
